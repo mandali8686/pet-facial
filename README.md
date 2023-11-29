@@ -49,3 +49,8 @@ A pivotal step in advancing our project on pet expression recognition involves e
 
 Additionally, diversifying the range of emotion categories recognized by the model stands as a crucial objective. Currently, the model may be limited to identifying a handful of basic emotions. By incorporating a wider array of emotion categories, we can significantly enrich the model's interpretive capacity, enabling it to detect and differentiate between more subtle and complex emotional states in pets. This expansion is not merely quantitative but qualitative, as it will empower the model to provide deeper, more insightful analyses of pet behavior and welfare, ultimately leading to a more empathetic and informed interaction between pets and their human companions.
 
+<h3>Reference</h3>
+
+Pytorch Vision Transformer: https://pytorch.org/vision/main/models/vision_transformer.html
+Pet Facial Dataset: https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
+HuggingFace Model: https://huggingface.co/mandali8686/pet-expression
