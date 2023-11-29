@@ -52,5 +52,7 @@ Additionally, diversifying the range of emotion categories recognized by the mod
 <h3>Reference</h3>
 
 Pytorch Vision Transformer: https://pytorch.org/vision/main/models/vision_transformer.html
+
 Pet Facial Dataset: https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
+
 HuggingFace Model: https://huggingface.co/mandali8686/pet-expression
