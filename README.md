@@ -10,6 +10,9 @@ This dataset contains 1000 face images of various pets, such as dogs, cats, rabb
 It contains over 200 images for each class: Angry, Sad, Happy, and Other, with augments.
 
 <h3>Data Flow in the Vision Transformer Architecture</h3>
+<img width="430" alt="Screen Shot 2023-11-29 at 11 46 10 AM" src="https://github.com/mandali8686/pet-facial/assets/100242191/8ee5321e-55f8-4363-9a5a-071af22c6013">
+
+
 <img width="552" alt="Screen Shot 2023-11-29 at 10 11 26 AM" src="https://github.com/mandali8686/pet-facial/assets/100242191/7b53c5f9-5184-4e52-94e4-8d4bb7268933">
 <h3>Colab Code</h3>
 https://colab.research.google.com/drive/11KmsZ15QM9kDKn0g8iGO-kgoOD2l5mVv#scrollTo=sz_RJvAXP5hi
@@ -22,6 +25,8 @@ https://colab.research.google.com/drive/1zYN-LvMGxgr6sXv3EMEUCAzDKUmJwnz_#scroll
 
 <h4>Manual Vision Tranformer</h4>
 <img width="719" alt="Screen Shot 2023-11-29 at 10 18 18 AM" src="https://github.com/mandali8686/pet-facial/assets/100242191/73a04dc9-5218-4722-8584-db34b9a0056d">
+<img width="771" alt="Screen Shot 2023-11-29 at 11 05 15 AM" src="https://github.com/mandali8686/pet-facial/assets/100242191/3a3a3bf2-6d82-4af6-820f-0cf05bcbd7f6">
+
 
 <h4>Pretrained Vision Transformer</h4>
 <img width="717" alt="Screen Shot 2023-11-29 at 10 19 42 AM" src="https://github.com/mandali8686/pet-facial/assets/100242191/69fdc493-4674-435c-96cb-61ba3e419cd1">
@@ -31,7 +36,6 @@ https://colab.research.google.com/drive/1zYN-LvMGxgr6sXv3EMEUCAzDKUmJwnz_#scroll
 <h3>Prediction Comparison</h3>
 <h4>Prediction with manual Vision Transformer</h4>
 <img width="419" alt="Screen Shot 2023-11-29 at 10 50 28 AM" src="https://github.com/mandali8686/pet-facial/assets/100242191/e4eae3e2-d8f9-41f3-bfeb-a7fb85ea306f">
-<img width="771" alt="Screen Shot 2023-11-29 at 11 05 15 AM" src="https://github.com/mandali8686/pet-facial/assets/100242191/3a3a3bf2-6d82-4af6-820f-0cf05bcbd7f6">
 
 <h4>Prediction with pretrained Vision Transformer</h4>
 
