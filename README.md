@@ -1,5 +1,8 @@
 <h1>Pet Facial Expression Classification with Vision Transformer</h1>
 
+Youtub video record link: https://youtu.be/qoNfW-dkJ4A
+
+
 <h3>Introduction</h3>
 
 In this project, we focus on the task of identifying animal facial expressions through the analysis of animal facial images. Utilizing a dual approach, we have developed both a manually crafted Vision Transformer (ViT) and employed a pretrained Vision Transformer model. This innovative methodology is designed to decipher the nuanced expressions found in various animal species, leveraging the advanced capabilities of Vision Transformers. ViTs, known for their effectiveness in understanding global image contexts, are particularly suited for this task. By comparing and contrasting the performance of a manually tailored model against a pretrained alternative, we aim to explore the intricacies of animal facial expressions, a relatively uncharted territory in the realm of machine learning and computer vision. This project not only pushes the boundaries of existing image recognition technologies but also opens new avenues for understanding animal behavior and communication.
