@@ -22,6 +22,12 @@ https://colab.research.google.com/drive/11KmsZ15QM9kDKn0g8iGO-kgoOD2l5mVv#scroll
 https://colab.research.google.com/drive/1zYN-LvMGxgr6sXv3EMEUCAzDKUmJwnz_#scrollTo=PZF1kjW1WeLu
 
 <h3>Code Demonstration</h3>
+
+<h4>Demo on HF Space</h4>
+https://huggingface.co/spaces/mandali8686/new-pet-pet
+
+
+<h4>Models</h4>
 <href>https://huggingface.co/mandali8686/pet-expression/tree/main</href>
 
 <h3>Result Comparison</h3>
